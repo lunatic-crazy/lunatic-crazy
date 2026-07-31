@@ -2,9 +2,9 @@ Hi there 👋
 
 .🎓 Nuclear Engineering undergrad at the University of Dhaka (final year)
 
-.⚛️ Learning OpenMC for reactor modelling and neutronics analysis
+.Learning Computational Fluid Mechanics 
 
-. Getting into scientific machine learning — PINNs and operator learning with JAX
+. Getting into scientific machine learning — PINNs and operator learning 
 
 . Curious about fusion energy and how simulation can accelerate it
 
